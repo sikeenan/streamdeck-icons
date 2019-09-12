@@ -6,5 +6,5 @@ Included in the Project
 
 ```text
 ./button-images
-./example_photos
+./example-photos
 ```
