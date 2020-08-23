@@ -8,3 +8,6 @@ Included in the Project
 ./button-images
 ./example-photos
 ```
+
+Some of these icons are sources from flaticons website. Created keys for streamdeck
+using key creator.
